@@ -1,4 +1,4 @@
-# Twitter Tweet Data Pipeline & Analysis Project
+# Twitter Data Pipeline Project
 
 ## Overview
 This goal of this project was to securely ingest, streamline and perform analysis on raw data from Twitter using the Twitter API and further transform the data using an ETL process.
@@ -9,18 +9,15 @@ This goal of this project was to securely ingest, streamline and perform analysi
 <li>Data Lake</li>
 <li>Scalability</li>
 <li>Cloud Processing</li>
-<li>Data Visualization/Reporting</li>
 
 ## Tools used
 <li>Amazon S3 - Data lake/Object storage</li>
 <li>Amazon EC2  - Cloud computing service to process our code so we arent processing it locally.</li>
 <li>Apache Airflow - Workflow Orchestration.</li>
 <li>Python/Pandas</li>
-<li>Tableau - Data visualization & reporting.</li>
 
 ## Simple Architectual Diagram
 ![image](https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/1f721c81-d340-4cef-abe0-55700c172bcb)
-
 
 ## Data Snippet from JSON to CSV
 <img width="982" alt="image" src="https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/5beb267b-bd8b-432a-838c-4b686d2427d2">
