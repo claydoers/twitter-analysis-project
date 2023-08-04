@@ -7,7 +7,7 @@ This goal of this project was to securely ingest, streamline and perform analysi
 <li>Data Ingestion</li>
 <li>ETL</li>
 <li>Data Lake</li>
-<li>Scheduled Daily Job</li>
+<li>Daily Job to migrate raw data to data lake</li>
 <li>Cloud Processing</li>
 
 ## Tools used
