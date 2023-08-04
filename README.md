@@ -25,7 +25,7 @@ This goal of this project was to securely ingest, streamline and perform analysi
 ## Airflow DAG
 <img width="530" alt="image" src="https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/f72de77f-a4ac-4de7-82d1-9c2f34cba812">
 
-## ETL Process/function snippet
+## Simple ETL Process/function used
 ![image](https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/faae2cd8-f53d-4bfc-b8ff-a89d5e120f5d)
 
 
