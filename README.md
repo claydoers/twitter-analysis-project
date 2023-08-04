@@ -15,7 +15,7 @@ This goal of this project was to securely ingest, streamline and perform analysi
 <li>Amazon S3 - Data lake/Object storage</li>
 <li>Amazon EC2  - Cloud computing service to process our code so we arent processing it locally.</li>
 <li>Apache Airflow - Workflow orchestration.</li>
-<li>Python/Pandas - DAG & data transformation</li>
+<li>Python/Pandas - data transformation & DAG</li>
 
 ## Simple Architectual Diagram
 ![image](https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/1f721c81-d340-4cef-abe0-55700c172bcb)
