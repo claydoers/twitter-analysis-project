@@ -20,7 +20,6 @@ This goal of this project was to securely ingest, streamline and perform analysi
 ![image](https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/1f721c81-d340-4cef-abe0-55700c172bcb)
 
 ## Data Snippet from JSON to CSV
-<img width="982" alt="image" src="https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/5beb267b-bd8b-432a-838c-4b686d2427d2">
 <img width="1200" alt="image" src="https://github.com/claydoers/de-twitter-analysis-project/assets/109707159/0c37e4df-0e1d-4112-adb5-e9948ebb4425">
 
 ## Airflow DAG
